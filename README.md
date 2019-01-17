@@ -6,6 +6,8 @@
 
 *Purpose: Creating a project in GitHub*
 
+**Note to self: Do not edit things in GitHub manually, but always push your files again. Otherwise you create conflict**
+
 ## Annotation_1
 Write personal data to the file :octopus::whale::tropical_fish::blowfish:
 
