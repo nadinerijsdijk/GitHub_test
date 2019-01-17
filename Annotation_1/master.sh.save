@@ -1,0 +1,4 @@
+#! /bin/bash
+
+ln -s ~/PRACTICE_DAY9/DATA_REPOSITORY/*.txt Data/
+.
