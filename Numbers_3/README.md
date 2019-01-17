@@ -1,6 +1,7 @@
 # Mini porject
 
 *Author: Nadine Rijsdijk*
+
 *Purpose: Creating a project in GitHub*
 
 ## Numbers_3
