@@ -1,6 +1,7 @@
 # Mini project
 
 *Author: Nadine Rijsdijk*
+
 *Purpose: Creating a project in GitHub*
 
 ## Alphabet_2
