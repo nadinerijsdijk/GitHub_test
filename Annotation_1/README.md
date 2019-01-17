@@ -1,9 +1,10 @@
-#Mini project
+# Mini project
 
 *Author: Nadine Rijsdijk*
+
 *Purpose: Creating a project file in GitHub*
 
-##Annotation_1
+## Annotation_1
 
 Writing personal data to the file :whale: :turtle:
 
