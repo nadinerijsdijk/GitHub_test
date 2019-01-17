@@ -1,4 +1,4 @@
-# Mini porject
+# Mini project
 
 *Author: Nadine Rijsdijk*
 
